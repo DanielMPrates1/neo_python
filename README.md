@@ -1,2 +1,2 @@
-# neo_python
+# python
 Raspagens, tratamento de dados e consumo de API
