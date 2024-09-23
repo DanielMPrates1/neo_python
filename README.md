@@ -1,2 +1,2 @@
 # python
-Raspagens, tratamento de dados e consumo de API
+Raspagens e tratamento de dados. Projeto pessoal para treinar Web Scrapping.
